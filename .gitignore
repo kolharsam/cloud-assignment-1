@@ -1,0 +1,5 @@
+**/.env
+**/env
+**/node_modules
+.DS_Store
+yelp-data-maker/yelp_academic_dataset_business.json
